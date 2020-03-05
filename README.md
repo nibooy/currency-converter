@@ -1,5 +1,4 @@
-# HW3 - Live API App
+# Currency Converter
+Exploring Swift and Storyboard
 
-CS290 Spring 2020
-Midterm Homework #3 - Public Network API for live table data
-
+Found a publicly accessible Currency Exchange API to write an app in Swift using networking and decoding methods to download and display data from the API real-time.
